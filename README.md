@@ -3,7 +3,8 @@
 
 A new Flutter application.
 App contains many widgets with the main page as main menu where you can navigate to other pages.
-#Short View
+
+# Short View
 <img src="screenshots/demo.gif" height="300em" />
 
 
